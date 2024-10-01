@@ -1,4 +1,4 @@
-Markdown Cheatsheet<a name="TOP"></a>
+GitHub Markdown Cheatsheet<a name="TOP"></a>
 ===================
 
 - - - - 
